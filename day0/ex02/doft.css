@@ -1,0 +1,205 @@
+#idbody
+{
+	background-color:#514f51;
+}
+
+.wrapper
+{
+	width: 1900px;
+}
+
+#idtitle
+{
+	margin-top: 20px;
+	margin-left: 200px;
+	position: absolute;
+	background-color:#918f91;
+	border-radius: 10px;
+	height: 140px;
+	width: 1500px;
+	box-shadow: 6px 6px 3px black;
+}
+
+#doft
+{
+	margin-top: 15px;
+	float: left;
+	height: 100px;
+	width: 400px;
+}
+
+#reload
+{
+	margin-top: 15px;
+	float: right;
+	height: 20px;
+	width: 20px;
+	margin-right: 10px;
+}
+
+#close
+{
+	float: right;
+	margin-top: 100px;
+	margin-right: -20px;
+	height: 20px;
+	width: 20px;
+}
+
+#loupe
+{
+	margin-top: 15px;
+	float: right;
+	height: 145px;
+	width: 225px;
+}
+
+#cmd
+{
+	margin-top: 180px;
+	margin-left: 150px;
+	background-color:#918f91;
+	border-radius: 10px;
+	height: 450px;
+	width: 130px;
+	box-shadow: 6px 6px 3px black;
+	position: absolute;
+}
+
+#arrow
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#main
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#oeil
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+	border: 3px solid red;
+	border-radius: 10px;
+}
+
+#outil
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#chat-icon
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#main_pic
+{
+	margin-top: 180px;
+	margin-left: 310px;
+	background-color:#918f91;
+	border-radius: 10px;
+	height: 700px;
+	width: 1200px;
+	box-shadow: 6px 6px 3px black;
+	position: absolute;
+}
+
+#cluster
+{
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 680px;
+	width: 1180px;
+}
+
+#infos
+{
+	margin-top: 180px;
+	margin-left: 1540px;
+	background-color:#918f91;
+	border-radius: 10px;
+	height: 330px;
+	width: 130px;
+	box-shadow: 6px 6px 3px black;
+	position: absolute;
+}
+
+#book
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#towel
+{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 70px;
+	width: 70px;
+}
+
+#wall
+{
+	background-image: url(resources/brick.jpg);
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 60px;
+	width: 100px;
+}
+
+#final
+{
+	margin-top: 810px;
+	margin-left: 200px;
+	background-color:#66ff66;
+	border-radius: 10px;
+	height: 160px;
+	width: 450px;
+	box-shadow: 6px 6px 3px black;
+	position: absolute;
+}
+
+.normal
+{
+	margin-top: 10px;
+	margin-left: 5px;
+	font-family: arial;
+	font-size: 15px;
+	color:black;
+	float:left;
+}
+
+#entrez
+{
+	font-size: 30px;
+}
+
+#ordinateur
+{
+	text-shadow: 2px 2px 4px red;
+}
+
+#form
+{
+	margin-top: 0px;
+	margin-left: 5px;
+	width: 250px;
+}

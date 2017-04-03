@@ -1,0 +1,21 @@
+#pink
+{
+	background-color: pink;
+}
+
+.num
+{
+	font-size:1vw; text-align:left; vertical-align:top;
+}
+.weight
+{
+	font-size:1vw; text-align:right; vertical-align:top;
+}
+.elem
+{
+	font-size:2vw; text-align:center; vertical-align:middle;
+}
+table, th, td
+{
+	border: 1px solid black; border-collapse:collapse;
+}
